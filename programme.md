@@ -1,5 +1,5 @@
 # M2AI - Mois des mathématiques appliquées & industrielles
-# Novembre 2024, Nice
+## Novembre 2024, Nice
 
 ## Benjamin Mauroy (CNRS) - TBA
 
