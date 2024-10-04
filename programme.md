@@ -3,9 +3,9 @@
 
 ## Marc Bernot (Qruise) - TBA
 
-## Benjamin Mauroy (CNRS) - TBA
-
 ## Alesia Herasimenka (U. Luxembourg) - TBA
+
+## Benjamin Mauroy (CNRS) - TBA
 
 ## Aurora Rossi (Inria) - Que se passe-t-il dans le cerveau quand nous écoutons des histoires ?
 
