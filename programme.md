@@ -1,0 +1,12 @@
+# M2AI - Mois des mathématiques appliquées & industrielles
+## Novembre 2024, Nice
+
+## Benjamin Mauroy (CNRS) - TBA
+
+## Marc Bernot (Qruise) - TBA
+
+## Alesia Herasimenka (U. Luxembourg) - TBA
+
+## Aurora Rossi (Inria) - Que se passe-t-il dans le cerveau quand nous écoutons des histoires ?
+
+Le cerveau est un organe extrêmement complexe qui sert de centre de contrôle pour le corps. Il orchestre un large éventail de fonctions, de la survie de base aux capacités cognitives avancées telles que le langage et la narration. L'imagerie par résonance magnétique fonctionnelle (IRMf) est une technique d'imagerie cérébrale utilisée pour étudier l'activité cérébrale. En mesurant les variations du flux sanguin, elle fournit des preuves indirectes de l'activité neuronale. Bien qu'elle ne mesure pas directement le déclenchement des neurones, l'augmentation du flux sanguin vers les régions actives du cerveau constitue un indicateur fiable de l'activité neuronale accrue. Dans notre recherche, nous utilisons des architectures d'apprentissage automatique pour analyser les données IRMf collectées lorsque les participants écoutent des récits présentés dans des modalités et des contextes différents. Cet exposé présentera les principales régions du cerveau impliquées dans la compréhension des histoires. En examinant les schémas d'activité cérébrale, nous pouvons mieux comprendre les mécanismes neuronaux qui sous-tendent notre capacité à comprendre et à traiter les histoires.
