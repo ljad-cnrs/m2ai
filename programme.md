@@ -1,9 +1,9 @@
 # M2AI - Mois des mathématiques appliquées & industrielles
 ## Novembre 2024, Nice
 
-## Benjamin Mauroy (CNRS) - TBA
-
 ## Marc Bernot (Qruise) - TBA
+
+## Benjamin Mauroy (CNRS) - TBA
 
 ## Alesia Herasimenka (U. Luxembourg) - TBA
 
