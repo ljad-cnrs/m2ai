@@ -46,3 +46,7 @@ Le cerveau est un organe extrêmement complexe qui sert de centre de contrôle p
 - Marc Monticelli (Université Côte d'Azur, LJAD)
 - Florent Nacry (Université Perpignan, LAMPS)
 - Ayman Moussa (Sorbonne Université, LJLL)
+
+## Contact
+
+[m2ai@listes.univ-cotedazur.fr](m2ai@listes.univ-cotedazur.fr)
