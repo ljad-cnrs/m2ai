@@ -50,3 +50,13 @@ Le cerveau est un organe extrêmement complexe qui sert de centre de contrôle p
 ## Contact
 
 [m2ai@listes.univ-cotedazur.fr](m2ai@listes.univ-cotedazur.fr)
+
+## Partenaires
+
+- [SMAI](http://smai.emath.fr)
+- [RT Optimisation](https://rt-optimisation.math.cnrs.fr)
+- [Université Côte d'Azur](https://univ-cotedazur.fr)
+- [Lycée Les Eucalyptus](https://www.lycee-eucalyptus.fr)
+- [Lycée Massena](http://www.lycee-massena.fr)
+- [Polytech Nice Sophia](https://polytech.univ-cotedazur.fr)
+- [LJAD](https://math.univ-cotedazur.fr/laboratoire/présentation-du-laboratoire)
