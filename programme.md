@@ -37,3 +37,12 @@ Le cerveau est un organe extrêmement complexe qui sert de centre de contrôle p
 - jeudi 14/11 10:00-12:00, lycée les Eucalyptus (salle Samuel Paty, terminales / premières) : Marc Bernot
 - mercredi 20/11 10:00-12:00, lycée CIV (salle cinéma, terminales / premières) : Alesia Herasimenka et Marc Bernot
 - jeudi 28/11 11:30-12:30, campus Lucioles Polytech Nice Sophia (amphi A1, PeiP1) : Aurora Rossi
+
+## Comité d'organisation
+
+- Samir Adly (Université de Limoges, XLIM)
+- Didier Auroux (Université Côte d'Azur, LJAD)
+- Jean-Baptiste Caillau (Université Côte d'Azur, LJAD)
+- Marc Monticelli (Université Côte d'Azur, LJAD)
+- Florent Nacry (Université Perpignan, LAMPS)
+- Ayman Moussa (Sorbonne Université, LJLL)
