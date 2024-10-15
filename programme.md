@@ -38,6 +38,31 @@ Le cerveau est un organe extrêmement complexe qui sert de centre de contrôle p
 - mercredi 20/11 10:00-12:00, lycée CIV (salle cinéma, terminales / premières) : Alesia Herasimenka et Marc Bernot
 - jeudi 28/11 11:30-12:30, campus Lucioles Polytech Nice Sophia (amphi A1, PeiP1) : Aurora Rossi
 
+## Mini-cv
+
+### Aurora Rossi
+
+Aurora Rossi est doctorante en informatique à l'Université Côte d'Azur, avec une formation en mathématiques appliquées à l'Université de Vérone. Ses recherches se concentrent sur l'analyse de données et l'apprentissage automatique, avec des applications multidisciplinaires, y compris en neurosciences.
+
+### Marc Bernot
+
+Marc Bernot est depuis 2023 ingénieur chez Qruise, une start-up qui
+facilite la mise en œuvre des ordinateurs quantiques. Après une
+formation en mathématiques appliquées à l'école normale supérieure de
+Cachan, il rejoint le service recherche de Thales Alenia Space en
+2008. Se situer au plus près des équipes qui fabriquent, caractérisent
+ou opèrent les télescopes spatiaux et les satellites lui a appris
+comment distiller une approche mathématique pour résoudre les
+problèmes dans un contexte industriel.
+
+### Alesia Herasimenka
+
+XXXXX
+
+#### Benjamin Mauroy
+
+TBC
+
 ## Comité d'organisation
 
 - Samir Adly (Université de Limoges, XLIM)
