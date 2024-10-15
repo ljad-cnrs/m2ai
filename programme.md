@@ -53,7 +53,7 @@ problèmes dans un contexte industriel.
 
 ### Alesia Herasimenka
 
-Alesia Herasimenka est chercheuse postdoctorale à l’Université du Luxembourg. Après des études à Sorbonne Université, Alesia Herasimenka a réalisé une thèse en mathématiques appliquées sur le contrôle optimal des voiles solaires à l’Université Côte d’Azur, au sein d'une équipe commune entre Inria et le Laboratoire J. A. Dieudonné (CNRS). Elle s’est notamment intéressée à l'étude des trajectoires optimales pour diverses missions spatiales en collaboration avec l’Agence Spatiale Européenne (ESA) et la NASA. Après son doctorat, elle a rejoint l’équipe SpaSys de l’Université du Luxembourg qui va prochainement lancer son premier picosatellite.
+Alesia Herasimenka est chercheuse postdoctorale à l’Université du Luxembourg. Après des études à Sorbonne Université, Alesia Herasimenka a réalisé une thèse en mathématiques appliquées sur le contrôle optimal des voiles solaires à l’Université Côte d’Azur, au sein d'une équipe commune entre Inria et le laboratoire J. A. Dieudonné du CNRS. Elle s’est notamment intéressée à l'étude des trajectoires optimales pour diverses missions spatiales en collaboration avec l’Agence Spatiale Européenne (ESA) et la NASA. Après son doctorat, elle a rejoint l’équipe SpaSys de l’Université du Luxembourg qui va prochainement lancer son premier picosatellite.
 
 #### Benjamin Mauroy
 
@@ -61,7 +61,7 @@ TBC
 
 ### Aurora Rossi
 
-Aurora Rossi est doctorante en informatique à l'Université Côte d'Azur, avec une formation en mathématiques appliquées à l'Université de Vérone. Ses recherches se concentrent sur l'analyse de données et l'apprentissage automatique, avec des applications multidisciplinaires, y compris en neurosciences.
+Aurora Rossi a reçu une formation en mathématiques appliquées à l'Université de Vérone. Elle est actuellement doctorante à Université Côte d'Azur au sein de l'équipe COATI, commune à Inria et au laboratoire I3S du CNRS. Ses travaux de recherches portent sur l'analyse de données et l'apprentissage automatique, avec des applications multidisciplinaires, notamment en neurosciences.
 
 ## Comité d'organisation
 
