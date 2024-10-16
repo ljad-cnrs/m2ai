@@ -14,7 +14,7 @@ champs en une ingéniosité automatique.
 Cette nouvelle possibilité enrichit et accélére considérablement
 l'ingéniosité humaine et le savoir faire de l'ingénieur.
 
-## Alesia Herasimenka (Université du Luxembourg, SnT) - Vers l'infini et au delà... à la voile
+## Alesia Herasimenka (Université du Luxembourg, SnT) - Vers l'infini et au-delà... à la voile
 
 Le mouvement des satellites dans l’espace est régi par des équations mathématiques. En particulier, la théorie du contrôle permet de déterminer des trajectoires qui permettent aux vaisseaux spatiaux de réaliser des manœuvres dans l’espace. En utilisant la gravité des corps célestes et la force de propulsion des moteurs, les satellites peuvent atteindre des planètes voisines, le Soleil, les régions éloignées de notre système solaire, voire d’autres étoiles. Les satellites à faible propulsion, en particulier, promettent de nouvelles missions ambitieuses. Un exemple de tels satellite sont les voiles solaires, propulsées par la lumière des étoiles, qui sont capables de parcourir de très grandes distances et d’atteindre d’autres systèmes stellaires en seulement quelques dizaines d’années. Pour y parvenir, une planification très précise des trajectoires est nécessaire, possible grâce à la théorie mathématique du contrôle, ce qui est le sujet de cet exposé.
 
@@ -74,7 +74,7 @@ Aurora Rossi a reçu une formation en mathématiques appliquées à l'Universit�
 
 ## Contact
 
-[m2ai@listes.univ-cotedazur.fr](m2ai@listes.univ-cotedazur.fr)
+[conf-m2ai@univ-cotedazur.fr](conf-m2ai@univ-cotedazur.fr)
 
 ## Partenaires
 
