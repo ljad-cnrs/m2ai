@@ -55,9 +55,9 @@ problèmes dans un contexte industriel.
 
 Alesia Herasimenka est chercheuse postdoctorale à l’Université du Luxembourg. Après des études à Sorbonne Université, Alesia Herasimenka a réalisé une thèse en mathématiques appliquées sur le contrôle optimal des voiles solaires à l’Université Côte d’Azur, au sein d'une équipe commune entre Inria et le laboratoire J. A. Dieudonné du CNRS. Elle s’est notamment intéressée à l'étude des trajectoires optimales pour diverses missions spatiales en collaboration avec l’Agence Spatiale Européenne (ESA) et la NASA. Après son doctorat, elle a rejoint l’équipe SpaSys de l’Université du Luxembourg qui va prochainement lancer son premier picosatellite.
 
-#### Benjamin Mauroy
+### Benjamin Mauroy
 
-TBC
+Benjamin Mauroy est directeur de recherche CNRS au laboratoire JA Dieudonné à Nice (Université Côte d’Azur). Il travaille à l’interface des mathématiques, de la biologie et de la physique. Ses recherches s’appuient sur la modélisation mathématique et numérique pour étudier le système respiratoire des mammifères. En tissant des ponts entre évolution et fonctions de la géométrie du poumon, ses travaux permettent de mieux comprendre certaines pathologies, comme l’asthme ou la mucoviscidose.
 
 ### Aurora Rossi
 
