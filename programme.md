@@ -33,7 +33,7 @@ Le cerveau est un organe extrêmement complexe qui sert de centre de contrôle p
 
 ## Dates et lieux
 
-- mardi 05/11 10:00-12:00, campus Valrose UniCA (L1) : Benjamin Mauroy
+- mardi 05/11 10:00-12:00, campus Valrose UniCA (amphi SN, L1) : Benjamin Mauroy
 - jeudi 14/11 10:00-12:00, lycée les Eucalyptus (salle Samuel Paty, terminales / premières) : Marc Bernot
 - mercredi 20/11 10:00-12:00, lycée CIV (salle cinéma, terminales / premières) : Alesia Herasimenka et Marc Bernot
 - jeudi 28/11 11:30-12:30, campus Lucioles Polytech Nice Sophia (amphi A1, PeiP1) : Aurora Rossi
